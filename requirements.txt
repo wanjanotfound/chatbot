@@ -1,0 +1,2 @@
+replicate==0.26.0
+streamlit==1.35.0
